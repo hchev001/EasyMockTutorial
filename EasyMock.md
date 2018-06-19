@@ -8,6 +8,8 @@ EasyMock is a object mocking tool that will assist you in generating Mock Object
 
 
 ## Guides
+
+### Document Tutorial Link(s)
 [Guide on Unit testing with JUnit 4.x and EasyMock in Eclipse](https://web.ti.bfh.ch/~knr1/FH/SWS/Java/AdvancedJava/ch.koenig.sws.java.junit4/documentation/tutorial/article.html) by  Dr. Reto E. Koenig 
 Tutorials Point Links
 [Setup instructions for EasyMock and its dependencies](https://www.tutorialspoint.com/easymock/easymock_environment_setup.htm)
@@ -17,6 +19,7 @@ Tutorials Point Links
 [Using EasyMock to enable response text based testing of Java Servlets](https://deors.wordpress.com/2011/04/01/easymock-servlets/) by Jorge Hidalgo
 [Introduction to Unit testing with JUnit and EasyMock](http://www.michaelminella.com/testing/unit-testing-with-junit-and-easymock.html) by Micahel Minella
 
+### Video Tutorial Link(s)
 [EasyMock with a basic Calculator Program](https://youtu.be/TqeMS3_sVmY?t=11m50s) by Sreenivasan Arumugam
 
 
