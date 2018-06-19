@@ -1,13 +1,13 @@
-#EasyMock Tutorial
+# EasyMock Tutorial
 
-##Requirements
+## Requirements
 EasyMock is a object mocking tool that will assist you in generating Mock Objects on the fly using Java proxy mechanism. This will facilitate you easier mocking of class dependencies in order to isolate the behavior of the unit at test. As opposed to a stub with the Mock Objects you will be able to verify whether it was used as expected at the end of your tests. The following curated content will assist you in setting up EasyMock with your project, learning how to integrate it with JUnit, and provide your various examples of its different use cases.
 
-##Installation
+## Installation
 [EasyMock UserGuide](http://easymock.org/user-guide.html)
 
 
-##Guides
+## Guides
 [Guide on Unit testing with JUnit 4.x and EasyMock in Eclipse](https://web.ti.bfh.ch/~knr1/FH/SWS/Java/AdvancedJava/ch.koenig.sws.java.junit4/documentation/tutorial/article.html) by  Dr. Reto E. Koenig 
 Tutorials Point Links
 [Setup instructions for EasyMock and its dependencies](https://www.tutorialspoint.com/easymock/easymock_environment_setup.htm)
